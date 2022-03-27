@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="Boton_Siguiente">Siguiente</string>
+    <string name="Boton_Regresar">Regresar</string>
+    <string name="Ingrese_su_Nombre">Ingrese su Nombre</string>
+    <string name="Pizzeria">Pizzeria Ramos</string>
+    <string name="Tamaño">Elija el tamaño de su pizza</string>
+    <string name="Ingredientes">Seleccione los ingredientes de su preferencia</string>
+
+</resources>
